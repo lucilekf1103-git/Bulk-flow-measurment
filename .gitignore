@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+
+
+jjjf
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Données (à NE PAS mettre sur GitHub)
+*.csv
+*.xlsx
+*.xls
+*.nc
+*.h5
+*.hdf5
+*.fits
+*.fit
+*.txt
+data/
+donnees/
+*.dat
+
+# Notebooks (dossiers temporaires)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.swp
+*.bak
+*~
+
+# Environnement Python
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
